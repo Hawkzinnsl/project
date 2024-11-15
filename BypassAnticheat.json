@@ -1,0 +1,26 @@
+[
+    {
+        "search": "08 01 00 EB 08 D0 4B E2 10 8C BD E8 DC DD 73 03",
+        "replace": "00 00 A0 E3 1E FF 2F E1"
+    },
+    {
+        "search": "DE 00 00 EB 08 D0 4B E2 10 8C BD E8 35 DD 73 03",
+        "replace": "00 00 A0 E3 1E FF 2F E1"
+    },
+    {
+        "search": "00 88 BD E8 00 48 2D E9 0D B0 A0 E1 18 D0 4D E2 00 10 E0 E3 04 00 8D E5 04 00 9D E5 00 20 00 E3 00 20 8D E5 04 00 0B E5 08 10 0B E5 0C 20 8D E5",
+        "replace": "00 00 A0 E3 1E FF 2F E1"
+    },
+    {
+        "search": "00 88 BD E8 00 48 2D E9 0D B0 A0 E1 18 D0 4D E2 04 00 0B E5 08 10 0B E5 0C 20 8D E5",
+        "replace": "00 00 A0 E3 1E FF 2F E1"
+    },
+    {
+        "search": "00 88 BD E8 00 48 2D E9 0D B0 A0 E1 18 D0 4D E2 28 32 9F E5 03 30 9F E7 00 30 93 E5 04 30 0B E5 08 00 8D E5 08 10 0B E5 0C 20 8D E5",
+        "replace": "00 00 A0 E3 1E FF 2F E1"
+    },
+    {
+        "search": "04 00 8D E5 00 10 8D E5 04 00 9D E5 00 10 9D E5 00 10 80 E5 08 D0 8D E2 1E FF 2F E1 08 D0 4D E2 04 00 8D E5 00 10 8D E5 04 00 9D E5 00 10 9D E5 00 10 80 E5 08 D0 8D E2 1E FF 2F E1 00 48 2D E9 0D B0 A0 E1 40 D0 4D E2 2C 21 9F E5",
+        "replace": "00 00 A0 E3 1E FF 2F E1"
+    }
+]
