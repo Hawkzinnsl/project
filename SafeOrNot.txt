@@ -1,0 +1,3 @@
+SecSaf: Color: green, Text: safe
+AnalogSaf: Color: green, Text: safe
+WallSaf: Color: red, Text: risk
