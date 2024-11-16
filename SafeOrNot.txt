@@ -11,7 +11,7 @@ FixSaf: Color: green, Text: safe
 WallSaf: Color: green, Text: safe
 SpeedRSaf: Color: green, Text: safe
 InstantSaf: Color: green, Text: safe
-AnalogSaf: Color: green, Text: risk
-FastSaf: Color: green, Text: risk
+AnalogSaf: Color: red, Text: risk
+FastSaf: Color: red, Text: risk
 VisionSaf: Color: green, Text: safe
 SecSaf: Color: green, Text: safe
